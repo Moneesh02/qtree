@@ -1,2 +1,2 @@
 [aws]
-10.0.0.11 ansible_user=ubuntu ansible_ssh_private_key_file=/root/ansible/moni.pem
+10.0.0.11 ansible_user=ubuntu ansible_ssh_private_key_file=moni.pem
